@@ -1,0 +1,14 @@
+D:\cs2_servers\game\csgo\addons_code\Healthy\bin\Debug\net8.0\Healthy.deps.json
+D:\cs2_servers\game\csgo\addons_code\Healthy\bin\Debug\net8.0\Healthy.dll
+D:\cs2_servers\game\csgo\addons_code\Healthy\bin\Debug\net8.0\Healthy.pdb
+D:\cs2_servers\game\csgo\addons_code\Healthy\bin\Debug\net8.0\CounterStrikeSharp.API.dll
+D:\cs2_servers\game\csgo\addons_code\Healthy\obj\Debug\net8.0\Healthy.csproj.AssemblyReference.cache
+D:\cs2_servers\game\csgo\addons_code\Healthy\obj\Debug\net8.0\Healthy.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs2_servers\game\csgo\addons_code\Healthy\obj\Debug\net8.0\Healthy.AssemblyInfoInputs.cache
+D:\cs2_servers\game\csgo\addons_code\Healthy\obj\Debug\net8.0\Healthy.AssemblyInfo.cs
+D:\cs2_servers\game\csgo\addons_code\Healthy\obj\Debug\net8.0\Healthy.csproj.CoreCompileInputs.cache
+D:\cs2_servers\game\csgo\addons_code\Healthy\obj\Debug\net8.0\Healthy.csproj.Up2Date
+D:\cs2_servers\game\csgo\addons_code\Healthy\obj\Debug\net8.0\Healthy.dll
+D:\cs2_servers\game\csgo\addons_code\Healthy\obj\Debug\net8.0\refint\Healthy.dll
+D:\cs2_servers\game\csgo\addons_code\Healthy\obj\Debug\net8.0\Healthy.pdb
+D:\cs2_servers\game\csgo\addons_code\Healthy\obj\Debug\net8.0\ref\Healthy.dll
